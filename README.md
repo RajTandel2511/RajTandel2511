@@ -1,23 +1,23 @@
 <!-- =====================================================
      Raj Kantilal Tandel — GitHub Profile README
-     Brand: #1E40AF primary · #F59E0B accent
+     Theme: Dark · #0D1117 base · #F59E0B accent · #60A5FA highlight
      ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=150&section=header&text=Raj%20Kantilal%20Tandel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Raj Kantilal Tandel" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:0D1117&height=160&section=header&text=Raj%20Kantilal%20Tandel&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38" alt="Raj Kantilal Tandel" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=1E40AF&center=true&vCenter=true&width=720&lines=Operations+Research+Analyst.;Applied+Machine+Intelligence+%E2%80%94+Northeastern+University.;Data-driven+process+optimization+%26+automation." alt="role headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=F59E0B&center=true&vCenter=true&width=720&lines=Operations+Research+Analyst.;Applied+Machine+Intelligence+%E2%80%94+Northeastern+University.;Data-driven+process+optimization+%26+automation." alt="role headline" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:raj2511tandel@gmail.com"><img src="https://img.shields.io/badge/Email-raj2511tandel%40gmail.com-1E40AF?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/RajTandel2511"><img src="https://img.shields.io/github/followers/RajTandel2511?style=flat-square&color=1E40AF&label=Followers" alt="Followers" /></a>
-  <img src="https://img.shields.io/badge/Location-South%20San%20Francisco%2C%20CA-475569?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-F59E0B?style=flat-square" alt="Open to collaboration" />
+  <a href="mailto:raj2511tandel@gmail.com"><img src="https://img.shields.io/badge/Email-raj2511tandel%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=F59E0B&labelColor=0D1117" alt="Email" /></a>
+  <a href="https://github.com/RajTandel2511"><img src="https://img.shields.io/github/followers/RajTandel2511?style=for-the-badge&color=0D1117&labelColor=0D1117&label=Followers" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/Location-South%20San%20Francisco%2C%20CA-0D1117?style=for-the-badge&labelColor=0D1117&color=60A5FA" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-0D1117?style=for-the-badge&labelColor=0D1117&color=F59E0B" alt="Open to collaboration" />
 </p>
 
 ---
@@ -89,21 +89,18 @@ My work applies graduate training in **Applied Machine Intelligence** — data e
 ## Technical Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,pandas,postgres,mysql,docker,aws,git,github,linux,vscode&theme=dark&perline=14" />
-    <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,pandas,postgres,mysql,docker,aws,git,github,linux,vscode&theme=light&perline=14" alt="stack" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,pandas,postgres,mysql,docker,aws,git,github,linux,vscode&theme=dark&perline=14" alt="stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-1E40AF?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-1E40AF?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-1E40AF?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1E40AF?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-1E40AF?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-1E40AF?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-1E40AF?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-1E40AF?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=F59E0B&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=60A5FA&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=60A5FA&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=F59E0B&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=60A5FA&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=F59E0B&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=60A5FA&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=F59E0B&labelColor=0D1117" />
 </p>
 
 ---
@@ -111,14 +108,12 @@ My work applies graduate training in **Applied Machine Intelligence** — data e
 ## GitHub Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RajTandel2511&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=60A5FA&icon_color=F59E0B&text_color=E2E8F0&bg_color=00000000" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=RajTandel2511&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1E40AF&icon_color=F59E0B&text_color=1E3A8A&bg_color=00000000" alt="github stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RajTandel2511&layout=compact&hide_border=true&langs_count=8&title_color=60A5FA&text_color=E2E8F0&bg_color=00000000" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajTandel2511&layout=compact&hide_border=true&langs_count=8&title_color=1E40AF&text_color=1E3A8A&bg_color=00000000" alt="top languages" />
-  </picture>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RajTandel2511&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=F59E0B&icon_color=60A5FA&text_color=E2E8F0&bg_color=0D1117" alt="github stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajTandel2511&layout=compact&hide_border=true&langs_count=8&title_color=F59E0B&text_color=E2E8F0&bg_color=0D1117" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajTandel2511&bg_color=0D1117&color=F59E0B&line=60A5FA&point=F59E0B&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
@@ -126,10 +121,10 @@ My work applies graduate training in **Applied Machine Intelligence** — data e
 ## Contact
 
 <p align="center">
-  <a href="mailto:raj2511tandel@gmail.com"><img src="https://img.shields.io/badge/raj2511tandel%40gmail.com-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://github.com/RajTandel2511"><img src="https://img.shields.io/badge/RajTandel2511-1E40AF?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <a href="mailto:raj2511tandel@gmail.com"><img src="https://img.shields.io/badge/raj2511tandel%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=F59E0B&labelColor=0D1117" alt="email" /></a>
+  <a href="https://github.com/RajTandel2511"><img src="https://img.shields.io/badge/RajTandel2511-0D1117?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=0D1117" alt="github" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E40AF&height=80&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:0D1117&height=80&section=footer" alt="footer" />
 </p>
